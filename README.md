@@ -6,7 +6,7 @@ Tuesday (AA) 1:30-4:20
 
 ## Course Overview
 
-This repository contains laboratory notebook templates and datasets for Physics 434 "Advanced Data Analysis Techniques for Large Datasets."
+This repository contains laboratory notebook templates and datasets as well as final projects I designed for Physics 434 "Advanced Data Analysis Techniques for Large Datasets."
 
 ## Getting Started
 
