@@ -13,10 +13,10 @@ This repository contains laboratory notebook templates and datasets as well as f
 | **Lab 1** | HTRU2 Pulsar Analysis | Pulsar survey data | Probability distributions, Bayes' theorem, conditional probability | Histogram analysis, Bayesian updating, statistical inference |
 | **Lab 2** | Variable Transformation | Synthetic distributions | Variable transformation, PDF theory, distribution validation | Analytic PDF derivation, Monte Carlo sampling, distribution comparison |
 | **Lab 3** | Monte Carlo & Ising Model | Simulated physical systems | Monte Carlo integration, rejection sampling, phase transitions, statistical mechanics | Rejection method, Metropolis algorithm, numerical integration, uncertainty estimation |
-| **Lab 4** | Maximum Likelihood | Particle mass distribution | MLE, parameter estimation, Cauchy distribution, optimization | Negative log-likelihood minimization, chi-squared minimization, binned/unbinned fits, grid search |
-| **Lab 5** | LHC Higgs Analysis | LHC jet data | Statistical significance, hypothesis testing, signal vs background, cut optimization | S/√B significance, ROC curves, confidence levels, event selection |
+| **Lab 4** | Maximum Likelihood | Particle mass distribution | maximum likelihod estimation (MLE), parameter estimation, Cauchy distribution, optimization | Negative log-likelihood minimization, chi-squared minimization, binned/unbinned fits, grid search |
+| **Lab 5** | LHC Higgs Analysis | LHC jet data | Statistical significance, hypothesis testing, signal vs background, cut optimization | significance (SNR) optimization, confidence levels, event selection |
 | **Lab 6** | Bayesian Regression | APOGEE stellar spectra | Bayesian inference, posterior distributions, heteroscedastic noise, uncertainty quantification, error propagation | Bayesian linear regression, MLE vs Bayesian comparison, predictive distributions, coverage testing, prior selection |
-| **Final 1** | EHT Black Hole Imaging | M87 & 3C279 radio interferometry | Radio interferometry, visibility analysis, calibration, time-domain statistics, systematic errors | Chi-squared tests, variability analysis, power-law fitting, closure phase analysis, model selection, confidence intervals |
+| **Final 1** | EHT Black Hole Imaging | M87 & 3C279 radio interferometry | Radio interferometry, visibility analysis, calibration, time-domain statistics, systematic errors | Chi-squared tests, variability analysis, power-law fitting, goodness-of-fit model selection, confidence intervals |
 | **Final 2** | CAMELS Cosmological simulations | CMD maps| parameter space exploration, data interpolation | MLE, chi-squared minimization, MCMC sampling, likelihood surface mapping, Bayesian parameter estimation,importance sampling |
 
 ## Getting Started
